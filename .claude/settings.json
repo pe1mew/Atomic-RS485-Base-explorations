@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pio run:*)",
+      "Bash(where platformio:*)",
+      "Bash(ls ~/.platformio/penv/Scripts/platformio*)",
+      "Bash(ls /c/Users/drasv/.platformio/penv/Scripts/platformio*)",
+      "Bash(/c/Users/drasv/.platformio/penv/Scripts/platformio.exe run:*)",
+      "Bash(where pio:*)",
+      "Bash(ls ~/.platformio/penv/Scripts/pio*)",
+      "Bash(ls /c/Users/drasv/.platformio/penv/Scripts/pio*)",
+      "Bash(/c/Users/drasv/.platformio/penv/Scripts/pio.exe run:*)"
+    ]
+  }
+}
