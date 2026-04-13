@@ -9,7 +9,10 @@
       "Bash(where pio:*)",
       "Bash(ls ~/.platformio/penv/Scripts/pio*)",
       "Bash(ls /c/Users/drasv/.platformio/penv/Scripts/pio*)",
-      "Bash(/c/Users/drasv/.platformio/penv/Scripts/pio.exe run:*)"
+      "Bash(/c/Users/drasv/.platformio/penv/Scripts/pio.exe run:*)",
+      "Bash(reg query:*)",
+      "Read(//c/Users/drasv/github/greenhouse-Controller/drivers/modBus/src/**)",
+      "Read(//c/Users/drasv/github/greenhouse-Controller/drivers/modBus/**)"
     ]
   }
 }
